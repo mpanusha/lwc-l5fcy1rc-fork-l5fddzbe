@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/mpanusha.lwc-l5fcy1rc-fork-l5fddzbe",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve CYCm8FoowWXgfUfMQ8I6 --open"
+  }
+}
